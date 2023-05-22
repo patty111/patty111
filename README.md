@@ -20,7 +20,7 @@ Currently learning C# ASP.NET.
 - LinkedIn: [`Patrick Lee`](https://www.linkedin.com/in/patrick-lee-1852b6226/)  
 - Email: [`smefyb@gmail.com`](mailto:smefyb@gmail.com)
 ---
->  當你還在睡懶覺的時候，美國小朋友都在上學讀書
+>  當你還在睡懶覺的時候，美國小朋友都已經在上學讀書了
 ---  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user9622O?theme=unicorn&ext=activity&font=patrick_hand)
