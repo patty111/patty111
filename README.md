@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi there 👋  
 I'm a sophomore student studying Computer Science at National Taiwan Normal University.  
 Currently learning C# ASP.NET.
-## 📫 How to reach me  
+## 🔎 How to reach me  
 - LinkedIn: [`Patrick Lee`](https://www.linkedin.com/in/patrick-lee-1852b6226/)  
 - Email: [`smefyb@gmail.com`](mailto:smefyb@gmail.com)
 ---
