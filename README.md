@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **patty111/patty111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About me  🙈🙉
+Hi there 👋  
+I'm a sophomore student studying Computer Science at National Taiwan Normal University.  
+Currently learning C# ASP.NET.
+## 📫 How to reach me  
+- LinkedIn: [`Patrick Lee`](https://www.linkedin.com/in/patrick-lee-1852b6226/)  
+- Email: [`smefyb@gmail.com`](mailto:smefyb@gmail.com)
+---
+>  當你還在睡懶覺的時候，美國小朋友都在上學讀書
+---  
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/user9622O?theme=unicorn&ext=activity&font=patrick_hand)
