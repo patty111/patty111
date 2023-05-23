@@ -23,4 +23,4 @@ Currently learning C# ASP.NET.
 >  當你還在睡懶覺的時候，美國小朋友都已經在上學讀書了
 ---  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/user9622O?theme=unicorn&ext=activity&font=patrick_hand)
+![Leetcode Stats](https://leetcard.jacoblin.cool/user9622O?theme=unicorn&ext=heatmap&font=patrick_hand)
