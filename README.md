@@ -27,7 +27,7 @@ Learning cryptography
 [![SQL Server](https://img.shields.io/badge/sql%20server-black?style=for-the-badge&logo=microsoftsqlserver)]()
 
 
-## 🔎 How to reach me  
+## ✉ How to reach me  
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
 [![smefyb@gmail.com](https://img.shields.io/badge/smefyb@gmail.com-black?style=fflat-square&logo=gmail)](mailto:smefyb@gmail.com)
 
