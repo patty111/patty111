@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 Hello there 👋  
 I'm a sophomore student studying Computer Science at National Taiwan Normal University.  
 Currently interested in C# ASP.NET and cybersecurity.  
-Learning cryptography
 ## Languages  
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
