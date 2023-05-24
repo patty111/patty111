@@ -24,3 +24,5 @@ Currently learning C# ASP.NET.
 ---  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user9622O?theme=unicorn&ext=heatmap&font=patrick_hand)
+
+![](https://komarev.com/ghpvc/?username=patty111&style=plastic)
