@@ -28,6 +28,7 @@ Currently interested in C# ASP.NET and cybersecurity.
 
 ## ✉ How to reach me  
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
+[![Patty](https://img.shields.io/badge/Medium-black?style=fflat-square&logo=medium)](https://medium.com/@smefyb)
 [![smefyb@gmail.com](https://img.shields.io/badge/smefyb@gmail.com-black?style=fflat-square&logo=gmail)](mailto:smefyb@gmail.com)
 
 <!--
