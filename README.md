@@ -42,7 +42,7 @@ Currently interested in C# ASP.NET and cybersecurity.
 ---  
   <p align="center">
     <a>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patty111&theme=2077" />
+      <img src= />
     </a>
     <a>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patty111&theme=2077">
