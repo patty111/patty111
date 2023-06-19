@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 # About me  🙈🙉
 Hello there 👋  
-I'm a sophomore student studying Computer Science and Human Resrouce at National Taiwan Normal University.  
+I'm a sophomore student studying Computer Science and Human Resources at National Taiwan Normal University.  
 Currently interested in backend development and cybersecurity.  
 ## Languages  
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()  
-## Technologiees & Frameworks  
+## Technologies & Frameworks  
 [![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
-[![SQL Server](https://img.shields.io/badge/sql%20server-black?style=for-the-badge&logo=microsoftsqlserver)]()
-
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=microsoftsqlserver)]()
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 
 ## ✉ How to reach me  
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
