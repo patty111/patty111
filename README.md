@@ -23,8 +23,14 @@ Currently interested in backend development and cybersecurity.
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()  
 ## Technologies & Frameworks  
 [![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=microsoftsqlserver)]()
+[![MSSQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=microsoftsqlserver)]()
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
+[![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
+
+## Currently Learning
+[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)]()
 
 ## ✉ How to reach me  
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
