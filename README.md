@@ -26,6 +26,8 @@ Currently interested in backend development and cybersecurity.
 [![MSSQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=microsoftsqlserver)]()
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)]()
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React)]()
 
 ## Currently Learning
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
@@ -36,12 +38,6 @@ Currently interested in backend development and cybersecurity.
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
 [![Patty](https://img.shields.io/badge/Medium-black?style=fflat-square&logo=medium)](https://medium.com/@smefyb)
 [![smefyb@gmail.com](https://img.shields.io/badge/smefyb@gmail.com-black?style=fflat-square&logo=gmail)](mailto:smefyb@gmail.com)
-
-<!--
-- LinkedIn: [`Patrick Lee`](https://www.linkedin.com/in/patrick-lee-1852b6226/)  
-- Email: [`smefyb@gmail.com`](mailto:smefyb@gmail.com)
--->
-
 
 ---
 >  當你還在睡懶覺的時候，美國小朋友都已經在上學讀書了
