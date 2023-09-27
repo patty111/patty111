@@ -15,24 +15,27 @@ Here are some ideas to get you started:
 # About me  🙈🙉
 Hello there 👋  
 I'm a sophomore student studying Computer Science and Human Resources at National Taiwan Normal University.  
-Currently interested in backend development and cybersecurity.  
+Currently interested in web development and cybersecurity.  
 ## Languages  
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
-[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()  
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()
+[![JS](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
 ## Technologies & Frameworks  
 [![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
-[![MSSQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=microsoftsqlserver)]()
-[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
+[![MSSQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=microsoftsqlserver)]()
+[![MYSQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)]()  
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)]()
+[![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()  
+[![NODEJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)]()
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React)]()
 
 ## Currently Learning
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)]()
 
 ## ✉ How to reach me  
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
