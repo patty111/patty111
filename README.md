@@ -22,7 +22,7 @@ Currently interested in web development and cybersecurity.
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()
 [![JS](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
-[![Bash](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
+[![Bash](https://img.shields.io/badge/js-black?style=for-the-badge&logo=gnubash)]()
 ## Technologies & Frameworks  
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
 [![MYSQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)]()  
