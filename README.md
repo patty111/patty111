@@ -22,16 +22,18 @@ Currently interested in web development and cybersecurity.
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()
 [![JS](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
+[![Bash](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
 ## Technologies & Frameworks  
-[![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
-[![MSSQL](https://img.shields.io/badge/mssql-black?style=for-the-badge&logo=microsoftsqlserver)]()
 [![MYSQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)]()  
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=MicrosoftAzure)]()
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)]()
 [![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()  
 [![NODEJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)]()
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React)]()
+[![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
+
 
 ## Currently Learning
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
