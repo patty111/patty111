@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # About me  🙈🙉
 Hello there 👋  
-I'm a sophomore student studying Computer Science and Human Resources at National Taiwan Normal University.  
+I'm a jubior studying Computer Science and Human Resources at National Taiwan Normal University.  
 Currently interested in web development and cybersecurity.  
 ## Languages  
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
@@ -40,7 +40,9 @@ Currently interested in web development and cybersecurity.
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 
 ## ✉ How to reach me  
+<!--
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
+-->
 [![Patty](https://img.shields.io/badge/Medium-black?style=fflat-square&logo=medium)](https://medium.com/@smefyb)
 [![smefyb@gmail.com](https://img.shields.io/badge/smefyb@gmail.com-black?style=fflat-square&logo=gmail)](mailto:smefyb@gmail.com)
 
