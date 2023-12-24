@@ -22,8 +22,7 @@ Currently interested in web development and cybersecurity.
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)]()
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)]()
 [![JS](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)]()
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)]()
-## Technologies & Frameworks  
+## Tools & Frameworks  
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql)]()
 [![MYSQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)]()  
 [![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=MicrosoftAzure)]()
@@ -32,12 +31,16 @@ Currently interested in web development and cybersecurity.
 [![NODEJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)]()
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)]()
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=React)]()
-[![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()
+[![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)]()  
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)]()
+
 
 
 ## Currently Learning
-[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
+<!--[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
+#[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]() -->
+[![Pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)]()
+
 
 ## ✉ How to reach me  
 <!--
