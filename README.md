@@ -57,7 +57,8 @@ Currently interested in web development and cybersecurity.
       <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patty111&theme=2077"/>
     </a>
     <a>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patty111&theme=2077">
+<!--       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patty111&theme=2077"> -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patty111&theme=2077"/>
     </a>
     <a>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patty111&theme=2077">
