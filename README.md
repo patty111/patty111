@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # About me  🙈🙉
 Hello there 👋  
-I'm a jubior studying Computer Science and Human Resources at National Taiwan Normal University.  
+I'm a junior studying Computer Science and Human Resources at National Taiwan Normal University.  
 Currently interested in web development and cybersecurity.  
 ## Languages  
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
