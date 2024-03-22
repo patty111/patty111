@@ -40,13 +40,12 @@ Currently interested in web development and cybersecurity.
 <!--[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
 #[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]() -->
 [![Pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)]()
-
+[![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)]()
 
 ## ✉ How to reach me  
 <!--
 [![Patrick Lee](https://img.shields.io/badge/Patrick%20Lee-black?style=fflat-square&logo=linkedin)](https://www.linkedin.com/in/patrick-lee-1852b6226)
 -->
-[![Patty](https://img.shields.io/badge/Medium-black?style=fflat-square&logo=medium)](https://medium.com/@smefyb)
 [![smefyb@gmail.com](https://img.shields.io/badge/smefyb@gmail.com-black?style=fflat-square&logo=gmail)](mailto:smefyb@gmail.com)
 
 ---
