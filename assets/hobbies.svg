@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 1004 204" role="img" aria-labelledby="t d">
+  <title id="t">Off the clock</title>
+  <desc id="d">Five small line icons: archery target with an arrow, tennis ball, football, checkered flag and beamed musical notes.</desc>
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', 'DejaVu Serif', serif; }
+    .sans  { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .arrow, .bounce, .shadow, .spin, .wave, .float { transform-box: fill-box; transform-origin: center; }
+
+    /* Base state = finished picture, so reduced-motion users get a clean static strip. */
+    .arrow  { animation: shoot 6s ease-out infinite; }
+    .bounce { animation: bounce 1.8s cubic-bezier(.3,0,.5,1) infinite alternate; }
+    .shadow { animation: shade 1.8s cubic-bezier(.3,0,.5,1) infinite alternate; }
+    .spin   { animation: spin 28s linear infinite; }
+    .wave   { transform-origin: left center; animation: wave 2.4s ease-in-out infinite alternate; }
+    .float  { animation: float 3.2s ease-in-out infinite alternate; }
+
+    @keyframes shoot  { 0% { transform: translate(22px,-22px); opacity: 0; } 7% { transform: none; opacity: 1; } 100% { transform: none; opacity: 1; } }
+    @keyframes bounce { from { transform: translateY(0); } to { transform: translateY(-12px); } }
+    @keyframes shade  { from { transform: scale(1); opacity: .18; } to { transform: scale(.7); opacity: .08; } }
+    @keyframes spin   { to { transform: rotate(360deg); } }
+    @keyframes wave   { from { transform: skewY(-4deg); } to { transform: skewY(4deg); } }
+    @keyframes float  { from { transform: translateY(2px); } to { transform: translateY(-5px); } }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g>
+    <rect x="0" y="0" width="172" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(86.0 78)" fill="none" stroke="#c9a46a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g class="ico">
+  <circle r="30"/><circle r="20"/><circle r="10"/><circle r="2.5" fill="#c9a46a" stroke="none"/>
+  <g class="arrow"><line x1="2" y1="-2" x2="44" y2="-44"/>
+    <path d="M36 -36 L43 -36 M36 -36 L36 -43 M41 -41 L48 -41 M41 -41 L41 -48" /></g>
+</g></g>
+    <text class="sans" x="86.0" y="152" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="2.5" fill="#e6edf3">ARCHERY</text>
+    <text class="serif" x="86.0" y="175" text-anchor="middle" font-size="14" font-style="italic" fill="#8b949e">calm is the technique</text>
+  </g>
+  <g>
+    <rect x="207" y="0" width="172" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(293.0 78)" fill="none" stroke="#c9a46a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g class="ico">
+  <ellipse class="shadow" cx="0" cy="40" rx="22" ry="4" fill="#c9a46a" stroke="none" opacity=".18"/>
+  <g class="bounce"><circle r="30"/>
+    <path d="M-21 -21 C-6 -8 -6 8 -21 21"/><path d="M21 -21 C6 -8 6 8 21 21"/></g>
+</g></g>
+    <text class="sans" x="293.0" y="152" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="2.5" fill="#e6edf3">TENNIS</text>
+    <text class="serif" x="293.0" y="175" text-anchor="middle" font-size="14" font-style="italic" fill="#8b949e">chasing a better backhand</text>
+  </g>
+  <g>
+    <rect x="414" y="0" width="172" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(500.0 78)" fill="none" stroke="#c9a46a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g class="ico"><g class="spin">
+  <circle r="30"/><polygon points="0.0,-10.0 9.5,-3.1 5.9,8.1 -5.9,8.1 -9.5,-3.1"/>
+  <path d="M0.0 -10.0 L0.0 -24.0 M9.5 -3.1 L22.8 -7.4 M5.9 8.1 L14.1 19.4 M-5.9 8.1 L-14.1 19.4 M-9.5 -3.1 L-22.8 -7.4"/>
+  <path d="M0 -24 L-10 -29 M0 -24 L10 -29 M22.8 -7.4 L29 -10 M22.8 -7.4 L24 3 M14 19.4 L22 22 M14 19.4 L5 24.5 M-14 19.4 L-22 22 M-14 19.4 L-5 24.5 M-22.8 -7.4 L-29 -10 M-22.8 -7.4 L-24 3"/>
+</g></g></g>
+    <text class="sans" x="500.0" y="152" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="2.5" fill="#e6edf3">FOOTBALL</text>
+    <text class="serif" x="500.0" y="175" text-anchor="middle" font-size="14" font-style="italic" fill="#8b949e">ex-winger, still running</text>
+  </g>
+  <g>
+    <rect x="621" y="0" width="172" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(707.0 78)" fill="none" stroke="#c9a46a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g class="ico">
+  <line x1="-26" y1="-36" x2="-26" y2="42"/>
+  <g class="wave"><rect x="-22" y="-30" width="44" height="33"/><rect x="-22" y="-30" width="11" height="11" fill="#c9a46a" stroke="none"/><rect x="0" y="-30" width="11" height="11" fill="#c9a46a" stroke="none"/><rect x="-11" y="-19" width="11" height="11" fill="#c9a46a" stroke="none"/><rect x="11" y="-19" width="11" height="11" fill="#c9a46a" stroke="none"/><rect x="-22" y="-8" width="11" height="11" fill="#c9a46a" stroke="none"/><rect x="0" y="-8" width="11" height="11" fill="#c9a46a" stroke="none"/></g>
+</g></g>
+    <text class="sans" x="707.0" y="152" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="2.5" fill="#e6edf3">FORMULA 1</text>
+    <text class="serif" x="707.0" y="175" text-anchor="middle" font-size="14" font-style="italic" fill="#8b949e">sofa strategist</text>
+  </g>
+  <g>
+    <rect x="828" y="0" width="172" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(914.0 78)" fill="none" stroke="#c9a46a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g class="ico"><g class="float">
+  <ellipse cx="-14" cy="22" rx="9" ry="6.5" transform="rotate(-20 -14 22)" fill="#c9a46a" stroke="none"/>
+  <ellipse cx="16" cy="14" rx="9" ry="6.5" transform="rotate(-20 16 14)" fill="#c9a46a" stroke="none"/>
+  <line x1="-6" y1="20" x2="-6" y2="-24"/><line x1="24" y1="12" x2="24" y2="-32"/>
+  <polygon points="-6,-24 24,-32 24,-23 -6,-15" fill="#c9a46a" stroke="none"/>
+</g></g></g>
+    <text class="sans" x="914.0" y="152" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="2.5" fill="#e6edf3">CLASSICAL</text>
+    <text class="serif" x="914.0" y="175" text-anchor="middle" font-size="14" font-style="italic" fill="#8b949e">the background track</text>
+  </g>
+</svg>

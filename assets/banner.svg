@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" role="img" aria-labelledby="t d">
+  <title id="t">Patrick Lee</title>
+  <desc id="d">Backend engineer and Web3 tinkerer. A red dot laps a thin racing circuit drawn over faint music staff lines.</desc>
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', 'DejaVu Serif', serif; }
+    .sans  { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+
+    /* Base state is the finished picture; keyframes only describe the entrance,
+       so nothing disappears if animations are off (prefers-reduced-motion). */
+    .rise   { animation: rise 1s ease-out backwards; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .45s; } .d3 { animation-delay: .75s; }
+    .draw   { stroke-dasharray: 1; animation: draw 3.2s ease-in-out .3s backwards; }
+    .car    { offset-path: path("M650 230 L760 230 C820 230 860 220 870 180 C880 140 850 120 810 125 C780 128 770 110 790 92 C810 74 800 60 760 60 L700 60 C660 60 640 90 660 120 C675 142 650 160 635 180 C620 205 625 230 650 230 Z");
+              offset-rotate: 0deg;
+              animation: appear .6s ease-out 3.4s backwards, lap 9s linear 3.4s infinite; }
+
+    @keyframes rise   { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes draw   { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes lap    { from { offset-distance: 0%; } to { offset-distance: 100%; } }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect x=".5" y=".5" width="999" height="279" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- faint music staff -->
+  <g stroke="#c9a46a" stroke-width="1" opacity=".13">
+    <line x1="40" y1="100" x2="960" y2="100"/>
+    <line x1="40" y1="116" x2="960" y2="116"/>
+    <line x1="40" y1="132" x2="960" y2="132"/>
+    <line x1="40" y1="148" x2="960" y2="148"/>
+    <line x1="40" y1="164" x2="960" y2="164"/>
+    <line x1="40" y1="100" x2="40" y2="164" stroke-width="2"/>
+    <line x1="960" y1="100" x2="960" y2="164" stroke-width="2"/>
+  </g>
+
+  <!-- circuit (generic loop) -->
+  <g>
+    <path d="M650 230 L760 230 C820 230 860 220 870 180 C880 140 850 120 810 125 C780 128 770 110 790 92 C810 74 800 60 760 60 L700 60 C660 60 640 90 660 120 C675 142 650 160 635 180 C620 205 625 230 650 230 Z"
+          fill="none" stroke="#8b949e" stroke-opacity=".25" stroke-width="9" stroke-linejoin="round"/>
+    <path class="draw" pathLength="1"
+          d="M650 230 L760 230 C820 230 860 220 870 180 C880 140 850 120 810 125 C780 128 770 110 790 92 C810 74 800 60 760 60 L700 60 C660 60 640 90 660 120 C675 142 650 160 635 180 C620 205 625 230 650 230 Z"
+          fill="none" stroke="#c9a46a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="650" y1="223" x2="650" y2="237" stroke="#e6edf3" stroke-width="2" opacity=".7"/>
+    <g class="car">
+      <circle r="10" fill="#e5484d" opacity=".25"/>
+      <circle r="4.5" fill="#e5484d"/>
+    </g>
+  </g>
+
+  <!-- name -->
+  <text class="serif rise d1" x="60" y="128" font-size="58" fill="#e6edf3" letter-spacing="1">Patrick Lee</text>
+  <line class="rise d2" x1="62" y1="150" x2="122" y2="150" stroke="#c9a46a" stroke-width="2"/>
+  <text class="sans rise d2" x="60" y="186" font-size="21" fill="#c9a46a" letter-spacing="1.5">backend engineer  ·  web3 tinkerer</text>
+  <text class="sans rise d3" x="60" y="216" font-size="15" fill="#8b949e" letter-spacing="1">Taiwan  ·  NTNU 2026  ·  Würzburg exchange</text>
+</svg>
