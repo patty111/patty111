@@ -7,14 +7,9 @@
   <a href="https://www.linkedin.com/in/patrick-lee-1852b6226">LinkedIn</a>
 </p>
 
-> [!NOTE]
-> Fresh NTNU grad, looking for **backend / Web3 engineering** roles. If you're hiring, or just want to talk shop, say hi.
-
 ## About
 
-I'm Patrick (Chen En on paper). I graduated from National Taiwan Normal University in June 2026, did an exchange at the University of Würzburg in Germany, and somewhere along the way ended up writing Kafka pipelines at LINE and Solidity contracts at imToken.
-
-I like backend problems where you can actually measure the improvement. I've also become a bit hooked on Web3, because designing for "nobody has to trust anybody" is a surprisingly fun constraint.
+I'm Patrick, graduated from NTNU, did an exchange at the University of Würzburg in Germany, mainly working on backend systems and Web3.
 
 ## The route so far
 
