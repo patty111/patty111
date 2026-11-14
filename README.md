@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Patrick Lee: backend engineer, Web3 tinkerer" width="100%">
+  <img src="./assets/banner.svg" alt="Patrick Lee: Backend engineer, Web3 engineer" width="100%">
 </p>
 
 <p align="center">
@@ -7,21 +7,20 @@
   <a href="https://www.linkedin.com/in/patrick-lee-1852b6226">LinkedIn</a>
 </p>
 
+> [!NOTE]
+> Based in Taiwan. Fresh NTNU grad, looking for **backend / Web3 engineering** roles. If you're hiring, or just want to talk shop, say hi.
+
 ## About
 
-I'm Patrick, graduated from NTNU, did an exchange at the University of Würzburg in Germany, mainly working on backend systems and Web3.
+I'm Patrick (Chen En on paper). I graduated from National Taiwan Normal University in June 2026, did an exchange at the University of Würzburg in Germany, and somewhere along the way ended up writing Kafka pipelines at LINE and Solidity contracts at imToken.
 
-## The route so far
+I like backend problems where you can actually measure the improvement. I've also become a bit hooked on Web3, because designing for "nobody has to trust anybody" is a surprisingly fun constraint.
 
-```mermaid
-timeline
-    title Timeline
-    2021 : Starts at NTNU
-    2023 : Jubo Health : Skyvor Medical
-    2024 : LINE : ETHGlobal Bangkok
-    2025 : imToken : Würzburg exchange : BIOTC paper
-    2026 : Graduates : IEEE BCCA paper accepted
-```
+## The path so far
+
+<p align="center">
+  <img src="./assets/career-path.svg" alt="Career path: starts at NTNU in Sep 2021, medical software internships at Jubo Health and Skyvor Medical in Jun 2023, LINE in Mar 2024, ETHGlobal Bangkok in Nov 2024, imToken in Jul 2025, Würzburg exchange in Sep 2025, graduated in Jun 2026, IEEE BCCA paper in 2026" width="100%">
+</p>
 
 ## What I've built
 
@@ -78,12 +77,16 @@ timeline
 ## Off the clock
 
 <p align="center">
-  <img src="./assets/hobbies.svg" alt="Archery, tennis, football, Formula 1, classical music" width="100%">
+  <img src="./assets/hobbies.svg" alt="Archery, tennis, football, Formula 1, classical music, travel" width="100%">
 </p>
 
 I played winger in high school, and I backpacked solo through 16 countries while living in Germany. Happy to trade travel stories, or argue about tyre strategy.
 
----
+## Activity
+
+<p align="center">
+  <img src="./assets/snake.svg" alt="My GitHub contribution graph, with a small snake gliding across it" width="100%">
+</p>
 
 <p align="center">
   <picture>
@@ -95,15 +98,3 @@ I played winger in high school, and I backpacked solo through 16 countries while
     <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patty111&theme=github" width="48%">
   </picture>
 </p>
-
-<!--
-Optional: contribution snake. Add .github/workflows/snake.yml, run it once from the Actions tab,
-then delete this comment wrapper.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patty111/patty111/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/patty111/patty111/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
--->
