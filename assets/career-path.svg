@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 555" role="img" aria-labelledby="t d">
+  <title id="t">Career path, 2021 to now</title>
+  <desc id="d">A winding path read left to right, then right to left, then left to right again: NTNU begins Sep 2021; medical software internships Jun 2023; LINE Mar 2024; ETHGlobal Bangkok 2024; imToken Jul 2025; Würzburg exchange Sep 2025; graduation Jun 2026; IEEE BCCA 2026 paper accepted; next, backend and Web3 roles.</desc>
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="110" x2="0" y2="490">
+      <stop offset="0" stop-color="#6e7f94"/><stop offset=".45" stop-color="#c9a46a"/><stop offset="1" stop-color="#e6c58a"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', 'DejaVu Serif', serif; }
+    .sans  { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    /* Base state is the finished picture; keyframes only describe the entrance. */
+    .draw { stroke-dasharray: 1; animation: draw 5.5s ease-in-out .3s backwards; }
+    .pop  { animation: pop .5s ease-out backwards; }
+    .fade { animation: fade .8s ease-out backwards; }
+    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @keyframes pop  { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect x=".5" y=".5" width="999" height="554" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- the road: soft underlay + fine line -->
+  <path d="M110 130 L850 130 A85 85 0 0 1 850 300 L150 300 A85 85 0 0 0 150 470 L760 470" fill="none" stroke="#c9a46a" stroke-opacity=".10" stroke-width="12" stroke-linecap="round"/>
+  <path class="draw" pathLength="1" d="M110 130 L850 130 A85 85 0 0 1 850 300 L150 300 A85 85 0 0 0 150 470 L760 470" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- the road ahead -->
+  <path d="M760 470 L910 470" fill="none" stroke="#e6c58a" stroke-opacity=".7" stroke-width="2.5" stroke-dasharray="2 9" stroke-linecap="round"/>
+  <path d="M365 125 L375 130 L365 135" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M625 125 L635 130 L625 135" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M375 295 L365 300 L375 305" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M635 295 L625 300 L635 305" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M365 465 L375 470 L365 475" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M625 465 L635 470 L625 475" fill="none" stroke="#c9a46a" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="pop" style="animation-delay:0.58s" transform="translate(240 130)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:0.73s" text-anchor="middle">
+    <text class="sans" x="240" y="74" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">SEP 2021</text>
+    <text class="serif" x="240" y="104" font-size="26" fill="#e6edf3">NTNU</text>
+    <text class="sans" x="240" y="172" font-size="16" fill="#8b949e">Bachelor's begins</text>
+  </g>
+  <g class="pop" style="animation-delay:1.13s" transform="translate(500 130)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:1.28s" text-anchor="middle">
+    <text class="sans" x="500" y="74" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">JUN 2023</text>
+    <text class="serif" x="500" y="104" font-size="26" fill="#e6edf3">Medical software</text>
+    <text class="sans" x="500" y="172" font-size="16" fill="#8b949e">Jubo Health · Skyvor Medical</text>
+  </g>
+  <g class="pop" style="animation-delay:1.68s" transform="translate(760 130)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:1.83s" text-anchor="middle">
+    <text class="sans" x="760" y="74" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">MAR 2024</text>
+    <text class="serif" x="760" y="104" font-size="26" fill="#e6edf3">LINE</text>
+    <text class="sans" x="760" y="172" font-size="16" fill="#8b949e">Kafka pipelines, −87% p95</text>
+  </g>
+  <g class="pop" style="animation-delay:2.63s" transform="translate(760 300)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:2.78s" text-anchor="middle">
+    <text class="sans" x="760" y="244" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">NOV 2024</text>
+    <text class="serif" x="760" y="274" font-size="26" fill="#e6edf3">ETHGlobal Bangkok</text>
+    <text class="sans" x="760" y="342" font-size="16" fill="#8b949e">XMTP Prize winner</text>
+  </g>
+  <g class="pop" style="animation-delay:3.19s" transform="translate(500 300)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:3.34s" text-anchor="middle">
+    <text class="sans" x="500" y="244" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">JUL 2025</text>
+    <text class="serif" x="500" y="274" font-size="26" fill="#e6edf3">imToken</text>
+    <text class="sans" x="500" y="342" font-size="16" fill="#8b949e">Claimable Link V3, EVM L2s</text>
+  </g>
+  <g class="pop" style="animation-delay:3.74s" transform="translate(240 300)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:3.89s" text-anchor="middle">
+    <text class="sans" x="240" y="244" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">SEP 2025</text>
+    <text class="serif" x="240" y="274" font-size="26" fill="#e6edf3">Würzburg</text>
+    <text class="sans" x="240" y="342" font-size="16" fill="#8b949e">Exchange in Germany</text>
+  </g>
+  <g class="pop" style="animation-delay:4.69s" transform="translate(240 470)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:4.84s" text-anchor="middle">
+    <text class="sans" x="240" y="414" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">JUN 2026</text>
+    <text class="serif" x="240" y="444" font-size="26" fill="#e6edf3">Graduated</text>
+    <text class="sans" x="240" y="512" font-size="16" fill="#8b949e">NTNU, class of 2026</text>
+  </g>
+  <g class="pop" style="animation-delay:5.25s" transform="translate(500 470)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#c9a46a" stroke-width="2.5"/><circle r="3" fill="#e6c58a"/>
+  </g>
+  <g class="fade" style="animation-delay:5.40s" text-anchor="middle">
+    <text class="sans" x="500" y="414" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">2026</text>
+    <text class="serif" x="500" y="444" font-size="26" fill="#e6edf3">IEEE BCCA</text>
+    <text class="sans" x="500" y="512" font-size="16" fill="#8b949e">Paper accepted</text>
+  </g>
+  <g class="pop" style="animation-delay:5.80s" transform="translate(760 470)">
+    <circle r="17" fill="#c9a46a" opacity=".13"/><circle r="8" fill="#0d1117" stroke="#e6c58a" stroke-width="2.5" stroke-dasharray="3.2 3.2"/>
+  </g>
+  <g class="fade" style="animation-delay:5.95s" text-anchor="middle">
+    <text class="sans" x="760" y="414" font-size="14" font-weight="600" letter-spacing="2.4" fill="#c9a46a">NEXT</text>
+    <text class="serif" x="760" y="444" font-size="26" fill="#e6edf3">Backend / Web3</text>
+    <text class="sans" x="760" y="512" font-size="16" fill="#8b949e">Open to the right team</text>
+  </g>
+</svg>
