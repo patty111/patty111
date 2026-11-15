@@ -84,9 +84,9 @@ I played winger in high school, and I backpacked solo through 16 countries while
 
 ## Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/snake.svg" alt="My GitHub contribution graph, with a small snake gliding across it" width="100%">
-</p>
+</p> -->
 
 <p align="center">
   <picture>
